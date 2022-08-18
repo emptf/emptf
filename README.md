@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emptf
 - 👀 I’m interested in technology at all 
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Oracle
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me emptf - LinkedIn
 
 <!---
